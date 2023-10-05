@@ -1,6 +1,6 @@
 # Explore Advanced WordPress Theme Development Techniques 
 
-Let's delve into something magnificent. Something I routinely use in my line of work. This something refers to highly specialized strategies I employ at Hybrid Web Agency, my place of employment. Let’s examine approaches for generating more customizable, reusable, and robust themes.
+Let's delve into something magnificent. Something I routinely use in my line of work. This something refers to highly specialized strategies I employ at [Hybrid Web Agency](https://hybridwebagency.com/), my place of employment. Let’s examine approaches for generating more customizable, reusable, and robust themes.
 
 You will learn object-oriented programming using classes, optimize template stratification, leverage potent theme hooks, integrate ajax capabilities, and gracefully coordinate with plugins. Mastering these skills can help construct professional-caliber WordPress themes.
 
